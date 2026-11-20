@@ -7,7 +7,13 @@
 <br />
 
 <div align="center">
-  <img src="./banner-hr.svg" alt="Roko Topić Banner" width="100%" />
+
+# Roko Topić
+
+**Računalni tehničar (student)** &bull; **Founder of Topić Web Dizajn**
+
+*Izrada modernih web stranica za lokalne biznise &bull; C++, Python &amp; Linux okruženje*
+
 </div>
 
 <br />
