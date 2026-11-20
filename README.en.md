@@ -43,7 +43,7 @@ I help local businesses, craftsmen, and small companies stand out online with a 
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,docker,linux,fedora,git&perline=8" alt="Tech Stack" height="60" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,docker,linux,git&perline=7" alt="Tech Stack" height="60" />
 </div>
 
 <br />
