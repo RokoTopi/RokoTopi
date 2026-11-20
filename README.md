@@ -43,7 +43,7 @@ Pomažem obrtima, lokalnim poduzetnicima i malim tvrtkama da se istaknu na inter
 ## 🛠️ Tehnologije i alati
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,docker,linux,fedora,git&perline=8" alt="Tech Stack" height="60" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,docker,linux,git&perline=7" alt="Tech Stack" height="60" />
 </div>
 
 <br />
